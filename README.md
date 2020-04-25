@@ -1,6 +1,6 @@
 # Yandex.Praktikum
 #### Жигайков Роман
-#### https://timesnewrouman.github.io/simplecards/
+#### https://timesnewrouman.github.io/simplecards
 ###### Спринт 8
 ###### Версия 1.0.0
 
